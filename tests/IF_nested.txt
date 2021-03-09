@@ -1,0 +1,7 @@
+IF 
+	IF 
+		(IF NOT Z THEN Y ELSE T)
+        THEN Y 
+	ELSE Z 
+THEN T 
+ELSE IF X THEN Y ELSE Z;

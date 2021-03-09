@@ -1,0 +1,1 @@
+exception LexError of string
